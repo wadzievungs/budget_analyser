@@ -1,0 +1,17 @@
+date,category,description,type,amount
+2024-01-01,Income,Monthly salary,income,25000
+2024-01-02,Food,Groceries at Checkers,expense,1200
+2024-01-03,Transport,Uber to work,expense,350
+2024-01-05,Food,Restaurant dinner,expense,450
+2024-01-07,Utilities,Electricity bill,expense,800
+2024-01-08,Entertainment,Netflix subscription,expense,199
+2024-01-10,Transport,Petrol,expense,600
+2024-01-12,Food,Groceries at Pick n Pay,expense,950
+2024-01-15,Income,Freelance work,income,5000
+2024-01-16,Utilities,Water bill,expense,300
+2024-01-18,Entertainment,Movie tickets,expense,280
+2024-01-20,Food,Lunch at work,expense,520
+2024-01-22,Transport,Uber rides,expense,420
+2024-01-25,Savings,Emergency fund,expense,2000
+2024-01-28,Food,Groceries at Woolworths,expense,1100
+2024-01-30,Utilities,Internet bill,expense,699
